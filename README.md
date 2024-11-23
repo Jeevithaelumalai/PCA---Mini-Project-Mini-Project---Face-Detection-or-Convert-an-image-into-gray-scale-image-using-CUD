@@ -136,13 +136,15 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 
 ### Input Image
 
-![785b8579-f545-422a-be8d-a7766c2e8de5](https://github.com/Georgepaultony/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/120088748/186cc9d5-86ff-44b4-91d2-2e18f153bcc6)
+
+![flowers-nature-pink-9611](https://github.com/user-attachments/assets/b17f0942-ec1e-4255-8d5e-7cce578166ac)
 
 
 
 ### Grayscale Image
 
-![output-onlinejpgtools](https://github.com/Georgepaultony/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/120088748/89e1fe6c-5d6b-4d09-8d33-5176848803b7)
+
+![flowers-nature-pink-9611-modified](https://github.com/user-attachments/assets/5438f826-4200-4d49-88d8-acbdd72747e1)
 
 
 ## Result:
